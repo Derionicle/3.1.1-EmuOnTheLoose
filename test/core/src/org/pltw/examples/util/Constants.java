@@ -10,7 +10,7 @@ public class Constants {
 	public static final float VIEWPORT_WIDTH = 5.0f;
 
 	// Visible game world is 5 meters tall
-	public static final float VIEWPORT_HEIGHT = 5.0f;
+	public static final float VIEWPORT_HEIGHT = 7.0f;
 
     // Path to texture atlas file
     public static final String TEXTURE_ATLAS = "EmuOnTheLoose.atlas";
@@ -26,8 +26,8 @@ public class Constants {
     public static final float WALL_TILE_HEIGHT = 1.942f;
 
     // sample map dimensions
-    public static final int SAMPLE_MAP_WIDTH = 5;
-    public static final int SAMPLE_MAP_HEIGHT = 5;
+    public static final int SAMPLE_MAP_WIDTH = 7;
+    public static final int SAMPLE_MAP_HEIGHT = 7;
     public static final int WALL_ROW = 0;
     public static final int WALL_COL = 0;
 }
